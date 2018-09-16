@@ -5,5 +5,4 @@
 災害などといった緊急時、歩道に雑草があるから駆除してほしいといった提案など、市が動かなければならないと判断した場合に、行動に移すという流れになっています。行動を起こす際の資金は主に、  
 ## 具体例  
 
-[戻る](https://github.com/RF215048/Uapps/edit/master/page1.md)
-[次へ](https://github.com/RF215048/Uapps/edit/master/page3.md)
+[戻る](https://rf215048.github.io/Uapps/page1)/[次へ](https://rf215048.github.io/Uapps/page3)
