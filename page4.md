@@ -1,1 +1,1 @@
-[トップへ戻る](./index.md "トップへ戻る")
+[トップへ戻る](https://rf215048.github.io/Uapps/page1 "トップへ戻る")
