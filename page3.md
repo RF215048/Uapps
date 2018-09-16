@@ -2,4 +2,5 @@
 
 
 
-[戻る](./page2.md "2ページ目へジャンプ") / [次へ](./page3.md "3ページ目へジャンプ")
+[戻る](https://github.com/RF215048/Uapps/edit/master/page2.md)
+[次へ](https://github.com/RF215048/Uapps/edit/master/page4.md)
