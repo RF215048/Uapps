@@ -3,4 +3,4 @@
 ## 目的<br> 
 ### ・今、市内で溢れている問題を市民の方々にご協力いただいて早期解決できるようにする情報提供アプリです。市内で利用できる地域通貨「UBEコイン」を用いて情提供へのモチベーションを上げます。みんなで市内をよりよくしていきましょう！
 <br>
-[次へ](https://github.com/RF215048/Uapps/edit/master/page2.md)
+[次へ](https://github.com/RF215048/Uapps/edit/master/page2)
